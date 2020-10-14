@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: City University of Hong Kong
-    year: 2020-2014(expected)
+    year: 2020-2024
   - course: BEng in Computer Science
     institution: Sichuan University
     year: 2016-2020
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mruan8-c@my.cityu.edu.hk".
+  link: 'mruan8-c@my.cityu.edu.hk'  # For a direct email link, use "mruan8-c@my.cityu.edu.hk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -72,4 +72,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm a first-year PhD student under the supervision of Dr. XU Weitao in Computer Science, City University of Hong Kong. I'm a member of Smart Sensing and Mobile Computing Lab (S2MC). My research interests include distributed machine learning and mobile computing. Prior to this I got my BEng and BEc degree in Computer Science and Financial Engineering in the Sichuan University. 
+I'm a first-year PhD student under the supervision of Dr. XU Weitao in Computer Science, City University of Hong Kong. I'm a member of Smart Sensing and Mobile Computing Lab (S2MC). My research interests include distributed machine learning and mobile computing. Prior to this I got my BEng and BEc degree in Computer Science and Financial Engineering at the Sichuan University. 
