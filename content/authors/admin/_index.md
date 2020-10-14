@@ -23,7 +23,7 @@ organizations:
 interests:
 - Machine Learning and Artificial Intelligence
 - IOT and Mobile Computing
-- Optimization 
+- Distributed Optimization 
 
 education:
   courses:
@@ -72,4 +72,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm a first-year PhD student under the supervision of [Dr. XU Weitao](https://www.weitaoxu.com/) in Computer Science, City University of Hong Kong. I'm a member of Smart Sensing and Mobile Computing Lab (S2MC). My research interests include distributed machine learning and mobile computing. Prior to this I got my BEng and BEc degree in Computer Science and Financial Engineering at the Sichuan University. 
+I'm a first-year PhD student under the supervision of [Dr. XU Weitao](https://www.weitaoxu.com/) in Department of Computer Science, City University of Hong Kong. I'm also a member of Smart Sensing and Mobile Computing Lab (S2MC). My research interests include distributed machine learning and mobile computing. Prior to this I got my BEng and BEc degree in Computer Science and Financial Engineering at the Sichuan University. 
