@@ -47,7 +47,7 @@ social:
   link: 'mailto:mruan8-c@my.cityu.edu.hk'  # For a direct email link, use "mruan8-c@my.cityu.edu.hk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RMengzhe
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
