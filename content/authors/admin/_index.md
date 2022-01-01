@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: City University of Hong Kong
-    year: 2020 - 2024
+    year:  2020 - now
   - course: BEng in Computer Science
     institution: Sichuan University
-    year: 2016 - 2020
+    year:  2016 - 2020
   - course: BEcon in Financial Engineering
     institution: Sichuan University
-    year: 2016 - 2020
+    year:  2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,4 +73,5 @@ user_groups:
 - Visitors
 ---
 I'm a second-year PhD student under the supervision of [Dr. XU Weitao](https://www.weitaoxu.com/) in Department of Computer Science, City University of Hong Kong. I'm a member of [Smart Sensing and Mobile Computing Lab (S2MC)](http://s2mc.site/index.html). I also work closely with [Dr. CAO Xuanyu](http://eexcao.people.ust.hk/) in Department of Electronic and Computer Engineering at HKUST. My research interests include distributed optimization, machine learning and game theory. Prior to this I got my BEng and BEcon degree in Computer Science and Financial Engineering at the Sichuan University. 
+
 Recently, I am working on communication-efficient distributed optimization.
