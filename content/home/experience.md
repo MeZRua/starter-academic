@@ -31,4 +31,12 @@ date_format = "Jan 2006"
 #   * Modelling
 #   * Deploying
 #   """
-+++
+experience:
+  - title: Ph.D. Candidate
+    company: City University of Hong Kong
+    company_url: ''
+    company_logo: org-gc
+    location: Hong Kong SAR
+    date_start: '2020-08-31'
+    date_end: ''
+
