@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 #   * Modelling
 #   * Deploying
 #   """
-[[experience]]
+[experience]
     title: "Ph.D. Candidate"
     company: "City University of Hong Kong"
     company_url: ''
