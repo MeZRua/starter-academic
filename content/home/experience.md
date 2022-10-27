@@ -1,15 +1,3 @@
-experience:
-  - title: Ph.D. Candidate
-    company: City University of Hong Kong
-    company_url: ''
-    company_logo: org-gc
-    location: Hong Kong SAR
-    date_start: '2020-08-31'
-    date_end: 'Present'
-    
-design:
-  columns: '2'
----
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
