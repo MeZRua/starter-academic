@@ -38,5 +38,5 @@ experience:
     company_logo: org-gc
     location: Hong Kong SAR
     date_start: '2020-08-31'
-    date_end: ''
+    date_end: 'Present'
 
