@@ -75,3 +75,5 @@ user_groups:
 I'm a third-year PhD student under the supervision of [Dr. XU Weitao](https://www.weitaoxu.com/) in Department of Computer Science, City University of Hong Kong. I'm a member of [Smart Sensing and Mobile Computing Lab (S2MC)](http://s2mc.site/index.html). I also work closely with [Dr. CAO Xuanyu](http://eexcao.people.ust.hk/) (ECE in HKUST) and [Dr. SONG Linqi](https://sites.google.com/site/aisquaredlab/about-us/linqi) (CS in CityU). My research interests include distributed optimization, machine learning and game theory. Prior to this I got my BEng and BEcon degree in Computer Science and Financial Engineering at the Sichuan University. 
 
 Recently, I am working on communication-efficient distributed optimization and decentralized optimization.
+
+*News*: My first paper has been released on arxiv: [Adaptive Top-K in SGD for Communication-Efficient Distributed Learning](https://arxiv.org/abs/2210.13532)
