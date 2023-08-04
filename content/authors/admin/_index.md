@@ -76,4 +76,6 @@ I'm a third-year PhD student under the supervision of [Dr. XU Weitao](https://ww
 
 Recently, I am working on communication-efficient distributed optimization and decentralized optimization.
 
-**News**: My first paper has been released on arxiv: [Adaptive Top-K in SGD for Communication-Efficient Distributed Learning](https://arxiv.org/abs/2210.13532)
+Next semester, I intend to work as an AI engineer intern at Huawei 2012 Lab.
+
+**News**: My first paper ([Adaptive Top-K in SGD for Communication-Efficient Distributed Learning](https://arxiv.org/abs/2210.13532)) has been ACCEPTED for presentation at GLOBECOM 2023.
